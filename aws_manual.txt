@@ -1,3 +1,6 @@
+Edit the credential file at ~/.aws/credentials 
+(in windows, the location may be c:\\users\\[username]\\.aws\\credentials)
+
 1. configure a profile in aws cli (cmd):
 	1.1 aws configure --profile <profile_name>
 	1.2 enter access key, secret key, region, output format(e.g. json)

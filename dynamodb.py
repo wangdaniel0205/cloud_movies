@@ -1,8 +1,6 @@
 '''
 In case of confusion view aws_manual.txt
 
-Edit the credential file at ~/.aws/credentials 
-(in windows, the location may be c:\\users\\[username]\\.aws\\credentials)
 
 Add the following lines to the AWS credentials file to specify your access key ID and secrete key for the "db_user" profile
 
